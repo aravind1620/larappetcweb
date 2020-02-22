@@ -66,7 +66,73 @@
                 </div>
               </div>
             </div>
+            {{-- button --}}
+
+            <div class="col-lg-3 col-md-6 col-sm-6" >
+              <br>
+              <button type="submit" class="btn btn-lg btn-primary" style="width: 100%"><span class="fa fa-plus"></span> {{ __('Create Test') }}</button>
+            </div>
+
+            <div class="col-lg-6 col-md-6">
+              <div class="card card-stats">
+                  <div class="card-header card-header-info card-header-icon">
+                      <div class="card-icon">
+                          <i class="material-icons">assignment_turned_in</i>
+                      </div>
+                      <p class="card-category">Tests Scheduled Today</p>
+                  </div>
+                  <div class="card-body">
+                      <table class="table table-condensed">
+                          <thead>
+                            <th>#</th><th>Test</th><th>Completion Status</th>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td colspan="4">No Tests scheduled today</td>
+                            </tr>
+                          </tbody>
+                      </table>
+                  </div>
+                  <div class="card-footer">
+                      <div class="stats">
+                          <i class="material-icons">timeline</i>
+                          <a href="/instadmin/testreport">View Full Test Reports</a>
+                      </div>
+                  </div>
+              </div>
           </div>
+        
+          <div class="col-lg-6 col-md-6">
+              <div class="card card-stats">
+                  <div class="card-header card-header-info card-header-icon">
+                      <div class="card-icon">
+                          <i class="material-icons">assignment_turned_in</i>
+                      </div>
+                      <p class="card-category">Ongoing Tests Status</p>
+                  </div>
+                  <div class="card-body">
+                      <table class="table table-condensed">
+                          <thead>
+                          <th>#</th>
+                          <th>Test</th>
+                          <th>Completion Status</th>
+                          </thead>
+                          <tbody>
+        
+                          <tr><td colspan="4">No Tests Ongoing</td></tr>
+                          </tbody>
+                      </table>
+                  </div>
+                  <div class="card-footer">
+                      <div class="stats">
+                          <i class="material-icons">timeline</i>
+                          <a href="/instadmin/testreport">View Full Test Reports</a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          </div>
+          
           <div class="card">
             <div class="card-header card-header-primary">
               <h4 class="card-title ">Completed Tests</h4>
