@@ -80,28 +80,28 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td>1</td><td>Dakota Rice</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
+                      <td>1</td><td>test 1</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
                     </tr>
                     <tr>
-                      <td>2</td><td>Dakota Rice</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
+                      <td>2</td><td>test 2</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
                     </tr>
                     <tr>
-                      <td>3</td><td>Dakota Rice</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
+                      <td>3</td><td>test 3</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
                     </tr>
                     <tr>
-                      <td>4</td><td>Dakota Rice</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
+                      <td>4</td><td>test 4</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
                     </tr>
                     <tr>
-                      <td>5</td><td>Dakota Rice</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
+                      <td>5</td><td>test 5</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
                     </tr>
                     <tr>
-                      <td>6</td><td>Dakota Rice</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
+                      <td>6</td><td>test 6</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
                     </tr>
                     <tr>
-                      <td>7</td><td>Dakota Rice</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
+                      <td>7</td><td>test 7</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
                     </tr>
                     <tr>
-                      <td>8</td><td>Dakota Rice</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
+                      <td>8</td><td>test 8</td><td>19 Feb 2020 5:12:35 PM<br>19 Feb 2020 5:42:35 PM</td><td>neet 2020</th><th>A,B,C,D</td><td class="text-primary">0/4</td><td><button type="submit" class="btn btn-primary">{{ __('publish rank list') }}</button> <button type="submit" class="btn btn-primary">{{ __('View rank list') }}</button></td>
                     </tr>
                   </tbody>
                 </table>
